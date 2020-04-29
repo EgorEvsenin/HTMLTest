@@ -1,0 +1,3 @@
+$ ( "#erfahreMehr" ).click(function(){
+	$ ( "#mehrText" ).text("The LHC was build with the goal to discover the Higgs boson. Hence, the ATLAS detector is designed to measure any possible signature of the Higgs boson. While not being depended on the actual mass of the Higgs boson and therefore any specific decay channel. Moreover, it was even planed to fulfill physics after the discovery. Thus, supersymmetric extensions or other beyond the SM theories should be possible to test with the ATLAS detector. Consequently, the ATLAS experiment is build to be a multipurpose experiment with a 4π symmetry.").toggle();
+});
